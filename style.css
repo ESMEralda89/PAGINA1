@@ -1,0 +1,19 @@
+body{
+background:green;
+}
+.center{
+display: block;
+margin-left: auto;
+margim-rigth:auto;
+width: 50%;
+width: 1000px;
+}
+titulo{
+ font-family:"Blade Runner Movie Font", sans-serif;                                      
+font-size: 50px;
+align-content: center;
+}
+table{
+margin-left: 300px;
+}
+
